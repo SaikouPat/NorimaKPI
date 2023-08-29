@@ -1,3 +1,2 @@
-"# NorimaKPI" 
 # NorimaKPI
 # NorimaKPI
